@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Pritom2357/Pritom2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Pritom Biswas, currently student of Computer Science and Engineering in BUET. I am learner and love to learn new things each moment. 
 
 - 🔭 I’m currently working on Web Development and AI Integration
 - 🌱 I’m currently learning API Integration, Heroku and RESTful APIs
