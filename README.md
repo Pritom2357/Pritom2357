@@ -69,8 +69,8 @@ I’m a passionate learner and developer with an interest in Web Development, AI
 
 ## 📈 GitHub Stats
 
-![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritombiswas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritombiswas&layout=compact&theme=radical)
+![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritom2357&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritom2357&layout=compact&theme=radical)
 
 ---
 
