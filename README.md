@@ -18,19 +18,19 @@
 
 ### 📜 **Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="50" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="50" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" width="50" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="50" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_logo.svg" width="50" />
 </p>
 
 ### 🌐 **Web Development**
 
 #### **Frontend:**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/HTML5_logo.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/HTML5_logo.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Tailwind_CSS_Logo.svg" width="50" />
