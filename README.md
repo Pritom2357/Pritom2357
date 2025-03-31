@@ -80,10 +80,20 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritombiswas/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://facebook.com/pritombiswas)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://instagram.com/pritombiswas)  
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:pritombiswas9999@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pritombiswas/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LinkedIn_Logo_2013-2019.svg" width="50" />
+  </a>
+  <a href="https://facebook.com/pritombiswas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_2023.png" width="50" />
+  </a>
+  <a href="https://instagram.com/pritombiswas">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" />
+  </a>
+  <a href="mailto:pritombiswas9999@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo_2023.png" width="50" />
+  </a>
+</p>
 
 ---
 
