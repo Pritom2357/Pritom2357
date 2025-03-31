@@ -68,9 +68,8 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pritombiswas/)
-- [Facebook](https://facebook.com/pritombiswas)
-- [Instagram](https://instagram.com/pritombiswas)
+- [LinkedIn]([https://www.linkedin.com/in/pritombiswas/](https://www.linkedin.com/in/pritom-biswas-11b098315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [Facebook]([https://facebook.com/pritombiswas](https://web.facebook.com/pritom.biswas.3705157/))
 - [Email](mailto:pritombiswas9999@gmail.com)
 
 ---
